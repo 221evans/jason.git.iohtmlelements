@@ -1,0 +1,39 @@
+.title{
+    text-align: center;
+    font-family:'Nanum Gothic', sans-serif;
+}
+#title{
+    font-family:'Nanum Gothic', sans-serif;
+    margin-top: 50px;
+    margin-left: 550px; 
+}
+
+table{
+    border:2px solid white;
+    width: 60%;
+    margin-top: 100px;
+    margin-right: auto;
+    margin-bottom: 100px;
+    margin-left: 300px;
+    background-color: rgb(63, 0, 121);
+}
+th{
+    border:1px solid white;
+}
+td{
+     border:1px solid white;
+}
+span{
+    color: red;
+}
+body{
+    background-color: rgb(63, 0, 121);
+    color: white;
+    font-family: 'Merriweather', serif;
+}
+.element{
+    color: rgb(6, 255, 255);
+}
+strong{
+    font-family: 'Merriweather', serif;
+}
